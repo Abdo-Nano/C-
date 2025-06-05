@@ -1,0 +1,1 @@
+/usr/bin/g++  -Wall -Wextra -Wpedantic -g CMakeFiles/LibraryTests.dir/test/main.cpp.o -o LibraryTests  /usr/local/lib/libgtest_main.a /usr/local/lib/libgtest.a 

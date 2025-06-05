@@ -1,0 +1,3 @@
+/home/abdo/Desktop/testing/cmake-build-debug/CMakeFiles/testing.dir
+/home/abdo/Desktop/testing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/abdo/Desktop/testing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic CMakeFiles/virtualFunctions.dir/src/main.cpp.o -o virtualFunctions 

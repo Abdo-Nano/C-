@@ -1,0 +1,5 @@
+/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/build/CMakeFiles/LibraryManagementSystem.dir
+/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/build/CMakeFiles/LibraryTests.dir
+/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/build/CMakeFiles/test.dir
+/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/build/CMakeFiles/edit_cache.dir
+/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/build/CMakeFiles/rebuild_cache.dir

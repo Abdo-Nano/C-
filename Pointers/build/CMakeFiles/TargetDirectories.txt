@@ -1,0 +1,4 @@
+/mnt/sdb1/programming/C++/Pointers/build/CMakeFiles/Pointers.dir
+/mnt/sdb1/programming/C++/Pointers/build/CMakeFiles/test.dir
+/mnt/sdb1/programming/C++/Pointers/build/CMakeFiles/edit_cache.dir
+/mnt/sdb1/programming/C++/Pointers/build/CMakeFiles/rebuild_cache.dir

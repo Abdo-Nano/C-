@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/build",
+  "command": "/usr/bin/g++  -I/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/include  -Wall -Wextra -Wpedantic -g -std=gnu++23 -o CMakeFiles/LibraryManagementSystem.dir/src/Book.cpp.o -c /mnt/sdb1/programming/C++/projects/LibraryManagementSystem/src/Book.cpp",
+  "file": "/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/src/Book.cpp",
+  "output": "CMakeFiles/LibraryManagementSystem.dir/src/Book.cpp.o"
+},
+{
+  "directory": "/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/build",
+  "command": "/usr/bin/g++  -I/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/include  -Wall -Wextra -Wpedantic -g -std=gnu++23 -o CMakeFiles/LibraryManagementSystem.dir/src/BookManagement.cpp.o -c /mnt/sdb1/programming/C++/projects/LibraryManagementSystem/src/BookManagement.cpp",
+  "file": "/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/src/BookManagement.cpp",
+  "output": "CMakeFiles/LibraryManagementSystem.dir/src/BookManagement.cpp.o"
+},
+{
+  "directory": "/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/build",
+  "command": "/usr/bin/g++  -I/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/include  -Wall -Wextra -Wpedantic -g -std=gnu++23 -o CMakeFiles/LibraryManagementSystem.dir/src/Library.cpp.o -c /mnt/sdb1/programming/C++/projects/LibraryManagementSystem/src/Library.cpp",
+  "file": "/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/src/Library.cpp",
+  "output": "CMakeFiles/LibraryManagementSystem.dir/src/Library.cpp.o"
+},
+{
+  "directory": "/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/build",
+  "command": "/usr/bin/g++  -I/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/include  -Wall -Wextra -Wpedantic -g -std=gnu++23 -o CMakeFiles/LibraryManagementSystem.dir/src/Member.cpp.o -c /mnt/sdb1/programming/C++/projects/LibraryManagementSystem/src/Member.cpp",
+  "file": "/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/src/Member.cpp",
+  "output": "CMakeFiles/LibraryManagementSystem.dir/src/Member.cpp.o"
+},
+{
+  "directory": "/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/build",
+  "command": "/usr/bin/g++  -I/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/include  -Wall -Wextra -Wpedantic -g -std=gnu++23 -o CMakeFiles/LibraryManagementSystem.dir/src/MemberManagement.cpp.o -c /mnt/sdb1/programming/C++/projects/LibraryManagementSystem/src/MemberManagement.cpp",
+  "file": "/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/src/MemberManagement.cpp",
+  "output": "CMakeFiles/LibraryManagementSystem.dir/src/MemberManagement.cpp.o"
+},
+{
+  "directory": "/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/build",
+  "command": "/usr/bin/g++  -I/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/include  -Wall -Wextra -Wpedantic -g -std=gnu++23 -o CMakeFiles/LibraryManagementSystem.dir/src/main.cpp.o -c /mnt/sdb1/programming/C++/projects/LibraryManagementSystem/src/main.cpp",
+  "file": "/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/src/main.cpp",
+  "output": "CMakeFiles/LibraryManagementSystem.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/build",
+  "command": "/usr/bin/g++    -Wall -Wextra -Wpedantic -g -std=gnu++23 -o CMakeFiles/LibraryTests.dir/test/main.cpp.o -c /mnt/sdb1/programming/C++/projects/LibraryManagementSystem/test/main.cpp",
+  "file": "/mnt/sdb1/programming/C++/projects/LibraryManagementSystem/test/main.cpp",
+  "output": "CMakeFiles/LibraryTests.dir/test/main.cpp.o"
+}
+]

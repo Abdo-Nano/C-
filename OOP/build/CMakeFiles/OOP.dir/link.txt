@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic CMakeFiles/OOP.dir/src/main.cpp.o -o OOP 

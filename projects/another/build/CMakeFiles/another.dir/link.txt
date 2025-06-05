@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic CMakeFiles/another.dir/src/main.cpp.o -o another  /usr/lib/x86_64-linux-gnu/libSQLiteCpp.a -lsqlite3 -lpthread -ldl /usr/lib/x86_64-linux-gnu/libsqlite3.so 

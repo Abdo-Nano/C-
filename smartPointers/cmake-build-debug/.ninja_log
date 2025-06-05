@@ -1,0 +1,4 @@
+# ninja log v6
+1098	1187	1743699466482229400	smartPointers	fbc5bc7fc29221bb
+4	1098	1743699465388095200	CMakeFiles/smartPointers.dir/main.cpp.o	b4e6d798ddb95571
+21	119	1745445339163843700	build.ninja	77c1ec12bf9c79ef

@@ -1,0 +1,3 @@
+/mnt/sdb1/programming/C++/projects/search/build/CMakeFiles/search.dir
+/mnt/sdb1/programming/C++/projects/search/build/CMakeFiles/edit_cache.dir
+/mnt/sdb1/programming/C++/projects/search/build/CMakeFiles/rebuild_cache.dir
